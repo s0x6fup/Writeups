@@ -1,3 +1,3 @@
 # Writeups
 
-A repositories of CTFs/ Labs I've done :)
+A repository of CTFs/ Labs I've done :)
