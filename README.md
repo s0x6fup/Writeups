@@ -1,3 +1,3 @@
 # Writeups
 
-A repository of CTFs/ Labs I've done :)
+Repository with some of the CTF/ online labs I did :)
