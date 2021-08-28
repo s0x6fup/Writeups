@@ -7,7 +7,7 @@ On port 8080 we can see that there's an automation server running which is calle
 
 ## Weak creds
 This sever has a login page on the index page:
-![]((https://github.com/MarkSeliter/Writeups/img/'Pasted image 20210827190250.png'))
+![](https://github.com/MarkSeliter/Writeups/img/Pasted\ image\ 20210827190250.png)
 
 The credentials are: `admin:admin` 
 
